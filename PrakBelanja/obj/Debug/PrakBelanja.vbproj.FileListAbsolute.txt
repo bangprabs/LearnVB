@@ -1,0 +1,16 @@
+E:\Materi Kuliah\Semester 3\Prak. Pemrog Visual\PrakBelanja\PrakBelanja\bin\Debug\PrakBelanja.exe.config
+E:\Materi Kuliah\Semester 3\Prak. Pemrog Visual\PrakBelanja\PrakBelanja\bin\Debug\PrakBelanja.exe
+E:\Materi Kuliah\Semester 3\Prak. Pemrog Visual\PrakBelanja\PrakBelanja\bin\Debug\PrakBelanja.pdb
+E:\Materi Kuliah\Semester 3\Prak. Pemrog Visual\PrakBelanja\PrakBelanja\bin\Debug\PrakBelanja.xml
+E:\Materi Kuliah\Semester 3\Prak. Pemrog Visual\PrakBelanja\PrakBelanja\obj\Debug\PrakBelanja.vbprojAssemblyReference.cache
+E:\Materi Kuliah\Semester 3\Prak. Pemrog Visual\PrakBelanja\PrakBelanja\obj\Debug\PrakBelanja.Form1.resources
+E:\Materi Kuliah\Semester 3\Prak. Pemrog Visual\PrakBelanja\PrakBelanja\obj\Debug\PrakBelanja.Resources.resources
+E:\Materi Kuliah\Semester 3\Prak. Pemrog Visual\PrakBelanja\PrakBelanja\obj\Debug\PrakBelanja.vbproj.GenerateResource.cache
+E:\Materi Kuliah\Semester 3\Prak. Pemrog Visual\PrakBelanja\PrakBelanja\obj\Debug\PrakBelanja.vbproj.CoreCompileInputs.cache
+E:\Materi Kuliah\Semester 3\Prak. Pemrog Visual\PrakBelanja\PrakBelanja\obj\Debug\PrakBelanja.exe
+E:\Materi Kuliah\Semester 3\Prak. Pemrog Visual\PrakBelanja\PrakBelanja\obj\Debug\PrakBelanja.xml
+E:\Materi Kuliah\Semester 3\Prak. Pemrog Visual\PrakBelanja\PrakBelanja\obj\Debug\PrakBelanja.pdb
+E:\Materi Kuliah\Semester 3\Prak. Pemrog Visual\PrakBelanja\PrakBelanja\bin\Debug\PrakBelanja.exe.manifest
+E:\Materi Kuliah\Semester 3\Prak. Pemrog Visual\PrakBelanja\PrakBelanja\bin\Debug\PrakBelanja.application
+E:\Materi Kuliah\Semester 3\Prak. Pemrog Visual\PrakBelanja\PrakBelanja\obj\Debug\PrakBelanja.exe.manifest
+E:\Materi Kuliah\Semester 3\Prak. Pemrog Visual\PrakBelanja\PrakBelanja\obj\Debug\PrakBelanja.application
